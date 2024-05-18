@@ -7,3 +7,4 @@ Welcome to the Netflix Clone, a simplified version of the popular streaming serv
 - Frontend: HTML, CSS
 
 ## Demo
+ https://123sheela.github.io/Netflix_Website/
